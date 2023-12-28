@@ -69,7 +69,7 @@ section.A{background: rgba(73, 72, 72, 0.7) url("./img/vvv.jpg" ) ;
         background-color: #47a9ff;
         border-radius: 5px;
         border: 0px;
-        padding: 7px 20px;
+        padding: 7.1px 20px;
         width: 10rem;
      }
      .searchbtn:hover{
@@ -96,7 +96,7 @@ width: 20px;
 }
  
 section.C {
-    margin: 20px 60px;
+    margin: 20px 20px;
     
 }
 .control{
@@ -112,7 +112,7 @@ p.space{
 }
 
 figure.boxes{
-    margin: 3rem 3rem;
+    margin: 0rem 3rem;
 }
 
 .box{
@@ -346,6 +346,7 @@ section.subscriber-details{
 .subscriber-input-details{
    
 }
+
 .form-control1{
     width: 67%;
     height: 2.5rem;
@@ -575,7 +576,7 @@ p.certified{
         border:none;
     }
     figure.boxes{
-        margin: 3rem 2rem;
+        margin: 0rem 2rem;
     }
    
 
@@ -606,7 +607,7 @@ font-size: 22px;
     
     @media screen and (max-width: 772px) {
         .navd{
-            background-color:;
+            /* background-color:; */
             width: 100%;
         }
         .two{
@@ -668,3 +669,4 @@ font-size: 22px;
     margin-top: 400px;
 }
 
+}
